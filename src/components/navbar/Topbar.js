@@ -10,7 +10,7 @@ const Topbar = () => {
             </div>
             <div className="right p-2">
                 <p className="text-light"><i className='fas fa-map-marker-alt' style={{'fontSize':'20px', 'paddingRight':'10px'}}></i> Location</p> 
-                <p className="text-light"><i className='fas fa-headphones-alt' style={{'fontSize':'20px', 'paddingLeft':'10px'}}></i> (+91)-(9102837465)</p>
+                <p className="text-light"><i className='fas fa-headphones-alt' style={{'fontSize':'20px', 'paddingLeft':'10px'}}></i> (+91)-(6901313297)</p>
             </div>
         </div>
         </>
